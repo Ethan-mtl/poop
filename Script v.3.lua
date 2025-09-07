@@ -1,5 +1,3 @@
-Script v.3
-
 -->> Services
 local Players          = game:GetService("Players")
 local RunService       = game:GetService("RunService")
@@ -219,3 +217,4 @@ makeButton("Toggle Jump Boost",  170, toggleJumpBoost)
 makeButton("Toggle Inf Health",  210, toggleInfHealth)
 makeButton("Toggle Decal Spam",  250, toggleDecalSpam)
 makeButton("Teleport All to Me", 290, teleportEveryoneToMe)
+
